@@ -1,6 +1,6 @@
 # flutter_provider_tutorial
 
-A new Flutter project.
+Provide Tutorial : ChangeNotifierProvider<Counter> Sample
 
 ## Getting Started
 
